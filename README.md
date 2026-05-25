@@ -3,6 +3,6 @@ This is my first repository.
 <br>
 My name is Abdullah.
 <br>
-4th semester's student
+4th semester's student of univesity of Okara
 <br>
 Internee at invextech.
