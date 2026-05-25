@@ -6,6 +6,6 @@ My name is Abdullah.
 4th semester's student of UO
 4th semester's student of univesity of Okara
 <br>
-Internee at invextech.
+Internee at invextech.co
 <br>
 New features developed.
